@@ -1,5 +1,4 @@
-# **赛博狗子**
-# **Contest_CyberDog**
+# **赛博狗子 Contest_CyberDog**
 
 ### 这是智创大赛的代码仓库
 
